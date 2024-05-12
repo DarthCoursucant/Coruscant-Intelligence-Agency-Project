@@ -41,14 +41,18 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://upload.wikimedia.org/wikipedia/commons/e/ea/Star_wars._Desfile_en_Santiago_de_Compostela.jpg')
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight {
+.hero-container-image-nine {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.goodfon.com/original/1920x1200/5/dd/speeder-bike-star-wars-movie.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight {
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine {
     width: 1000px;
     margin-left: 30px;
     border-radius: 20px;
@@ -62,7 +66,7 @@ html, body, main.page-body {
     height: 400px;
 }
 
-.hero-container-image-four, .hero-container-image-five, .hero-container-image-seven, .hero-container-image-eight  {
+.hero-container-image-four, .hero-container-image-five, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine  {
     height: 450px;
 }
 
