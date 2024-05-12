@@ -98,7 +98,7 @@ html, body, main.page-body {
     font-size: 17px;
 }
 
-.post-container-text, .post-container-text-one {
+.post-container-text, .post-container-text-one, .post-container-text-two {
     margin-left: 330px;
     width: 1000px;
 }
@@ -109,6 +109,10 @@ html, body, main.page-body {
 
 .post-container-text {
     margin-top: -1000px;
+}
+
+.post-container-text-two {
+    margin-top: -1040px;
 }
 
 /* END MAIN CONTENT*/
