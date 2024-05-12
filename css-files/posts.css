@@ -13,18 +13,29 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://lumiere-a.akamaihd.net/v1/images/the-books-of-boba-fett-cargo-hold-ch-1_tall_55812be3.jpeg?region=0,0,1536,864&width=768");
 }
 
-.hero-container-image-one {
+.hero-container-image-two {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.goodfon.com/original/2560x1440/d/85/star-wars-episode-vii-the-6653.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one {
+.hero-container-image-one, .hero-container-image-two {
     width: 1000px;
-    height: 500px;
     margin-left: 30px;
     border-radius: 20px;
+}
+
+.hero-container-image-one {
+    height: 500px;
+}
+
+.hero-container-image-two {
+    height: 400px;
 }
 
 .hero-container-text {
@@ -75,9 +86,16 @@ html, body, main.page-body {
     font-size: 17px;
 }
 
-.post-container-text {
+.post-container-text, .post-container-text-one {
     margin-left: 330px;
     width: 1000px;
+}
+
+.post-container-text-one {
+    margin-top: -1090px;
+}
+
+.post-container-text {
     margin-top: -1000px;
 }
 
