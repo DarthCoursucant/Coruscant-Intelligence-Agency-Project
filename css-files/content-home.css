@@ -1,0 +1,98 @@
+html, body, main.page-body {
+    background-image: url('https://images.unsplash.com/photo-1520034475321-cbe63696469a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+}
+
+.wrap { flex-wrap: wrap; }
+
+.flex-boxes-home {
+    display: flex;
+}
+
+#category-boz-big {
+    background-color: #ffffff;
+    border: 2px solid #a32a41;
+    border-radius: 15px;
+    width: 600px;
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+
+#category-boz-big a {
+    text-decoration: none;
+    color: #a32a41;
+    text-align: center;
+    padding-left: 210px;
+    font-size: 50px;
+}
+
+#cateogory-normal-box {
+    background-color: #ffffff;
+    border: 2px solid #a32a41;
+    border-radius: 15px;
+    padding-top: 50px;
+    width: 300px;
+    height: 90px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+#cateogory-normal-box a {
+    text-decoration: none;
+    color: #a32a41;
+    text-align: center;
+}
+
+#category-lower-box {
+    background-color: #ffffff;
+    border: 2px solid #a32a41;
+    border-radius: 15px;
+    padding-top: 55px;
+    width: 300px;
+    height: 100px;
+}
+
+#category-lower-box a {
+    text-decoration: none;
+    color: #a32a41;
+    text-align: center;
+}
+
+.organizations-box-home {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+.people-market-box-home {
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.rebel-box-home a {
+    padding-left: 70px;
+}
+
+.imperial-box-home a, .smuggler-box-home a {
+    padding-left: 60px;
+}
+
+.bounty-hunter-box-home a {
+    padding-left: 20px;
+}
+
+.mandolorian-box-home a {
+    padding-left: 30px;
+}
+
+.species-box-home a {
+    padding-left: 65px;
+}
+
+.organizations-box-home a {
+    padding-left: 25px;
+}
+
+.people-market-box-home a {
+    padding-left: 75px;
+}
