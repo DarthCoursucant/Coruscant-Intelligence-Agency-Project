@@ -33,20 +33,24 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4ODIxOTczLWltYWdlLWt6MmViYnA2LmpwZw.jpg')
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six {
+.hero-container-image-seven {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://live.staticflickr.com/65535/49818284777_bd80680b7d_b.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six {
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven {
     width: 1000px;
     margin-left: 30px;
     border-radius: 20px;
 }
 
-.hero-container-image-one  {
+.hero-container-image-one {
     height: 500px;
 }
 
@@ -54,7 +58,7 @@ html, body, main.page-body {
     height: 400px;
 }
 
-.hero-container-image-four, .hero-container-image-five {
+.hero-container-image-four, .hero-container-image-five, .hero-container-image-seven  {
     height: 450px;
 }
 
