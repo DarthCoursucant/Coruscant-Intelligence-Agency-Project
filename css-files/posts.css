@@ -29,14 +29,18 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1618336753974-aae8e04506aa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHN0YXIlMjB3YXJzfGVufDB8fDB8fHww')
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five {
+.hero-container-image-six {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4ODIxOTczLWltYWdlLWt6MmViYnA2LmpwZw.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five {
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six {
     width: 1000px;
     margin-left: 30px;
     border-radius: 20px;
@@ -46,7 +50,7 @@ html, body, main.page-body {
     height: 500px;
 }
 
-.hero-container-image-two, .hero-container-image-three  {
+.hero-container-image-two, .hero-container-image-three, .hero-container-image-six  {
     height: 400px;
 }
 
