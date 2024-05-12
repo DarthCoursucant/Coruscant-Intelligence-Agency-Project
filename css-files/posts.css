@@ -3,3 +3,89 @@ html, body, main.page-body {
 }
 
 .wrap { flex-wrap: wrap; }
+
+.posts-page-flex-container, .hero-buttons-type-one {
+    display: flex;
+}
+
+/* HERO IMAGES */
+.hero-container-image-one {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://lumiere-a.akamaihd.net/v1/images/the-books-of-boba-fett-cargo-hold-ch-1_tall_55812be3.jpeg?region=0,0,1536,864&width=768");
+}
+
+.hero-container-image-one {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-container-image-one {
+    width: 1000px;
+    height: 500px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.hero-container-text {
+    color: #ffffff;
+    text-align: center;
+}
+
+.hero-buttons-type-one p{
+    text-align: center;
+}
+
+#hero-button-report, #hero-button-posts {
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    width: 400px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+#hero-button-posts {
+    background-color: #417D6C;
+}
+
+#hero-button-report {
+    background-color: #528DB1;
+}
+
+#link-in-hero {
+    background-color: #a32a41;
+    border: 2px solid #000000;
+    width: 300px;
+    margin-left: 50px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#link-in-hero a {
+    text-decoration: none;
+    color: #ffffff;
+}
+/* END HERO IMAGES */
+
+/* MAIN CONTENT*/
+#full-text-post-container {
+    color: #ffffff;
+    text-align: center;
+    font-size: 17px;
+}
+
+.post-container-text {
+    margin-left: 330px;
+    width: 1000px;
+}
+
+/* END MAIN CONTENT*/
+
+/*SIDE BAR*/
+.side-bar-posts {
+    background-color: aqua;
+    width: 300px;
+    border-radius: 20px;
+    height: 1000px;
+}
