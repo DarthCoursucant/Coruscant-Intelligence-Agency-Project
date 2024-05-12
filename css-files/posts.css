@@ -78,6 +78,7 @@ html, body, main.page-body {
 .post-container-text {
     margin-left: 330px;
     width: 1000px;
+    margin-top: -1000px;
 }
 
 /* END MAIN CONTENT*/
@@ -87,5 +88,10 @@ html, body, main.page-body {
     background-color: aqua;
     width: 300px;
     border-radius: 20px;
-    height: 1000px;
+    height: 1500px;
+}
+
+#side-bar-header h1 {
+    text-align: center;
+    font-size: 35px;
 }
