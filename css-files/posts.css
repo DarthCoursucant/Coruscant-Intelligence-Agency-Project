@@ -17,24 +17,28 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.goodfon.com/original/2560x1440/d/85/star-wars-episode-vii-the-6653.jpg')
 }
 
-.hero-container-image-one, .hero-container-image-two {
+.hero-container-image-three {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.goodfon.com/original/1920x1080/2/16/yoda-star-wars-episode-v-the-empire-strikes-back-movies-film.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one, .hero-container-image-two {
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three {
     width: 1000px;
     margin-left: 30px;
     border-radius: 20px;
 }
 
-.hero-container-image-one {
+.hero-container-image-one  {
     height: 500px;
 }
 
-.hero-container-image-two {
+.hero-container-image-two, .hero-container-image-three  {
     height: 400px;
 }
 
