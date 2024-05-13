@@ -151,7 +151,7 @@ html, body, main.page-body {
 
 /*SIDE BAR*/
 .side-bar-posts {
-    background-color: aqua;
+    background-color: #a32a41;
     width: 300px;
     border-radius: 20px;
     height: 1500px;
@@ -160,4 +160,19 @@ html, body, main.page-body {
 #side-bar-header h1 {
     text-align: center;
     font-size: 35px;
+}
+
+.side-bar-button {
+    background-color: #417D6C;
+    width: 280px;
+    margin-left: 10px;
+    border-radius: 15px;
+    border: 2px solid #000000;
+    text-align: center;
+}
+
+.side-bar-button a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
 }
