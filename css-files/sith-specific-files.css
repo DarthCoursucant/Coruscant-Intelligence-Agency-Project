@@ -137,11 +137,11 @@ html, body, main.page-body {
     font-size: 25px;
 }
 
-.swith-weapoons-container {
+.swith-weapoons-container, .sith-amulets-container {
     display: flex;
 }
 
-.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion {
+.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion, .stif-abattar {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
