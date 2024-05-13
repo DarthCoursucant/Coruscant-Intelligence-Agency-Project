@@ -136,3 +136,38 @@ html, body, main.page-body {
     text-align: center;
     font-size: 25px;
 }
+
+.swith-weapoons-container {
+    display: flex;
+}
+
+.sith-swords {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+#sith-image img {
+    height: 300px;
+    width: 450px;
+    border-radius: 20px;
+}
+
+.sith-weapons-text {
+    background-color: #a32a41;
+    height: 300px;
+    width: 450px;
+    border-radius: 20px;
+}
+
+#sith-weapon-header h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#sith-weapon-info {
+    text-align: center;
+    font-size: 17px;
+    color: #ffffff;
+}
