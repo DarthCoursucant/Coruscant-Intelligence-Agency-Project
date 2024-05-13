@@ -126,7 +126,7 @@ html, body, main.page-body {
 
 /* END NOTES STYLING */
 
-/* SITH WEAPONS */
+/* SITH FILES */
 .sith-weapons-intro {
     background-color: #ffffff;
     width: 1000px;
@@ -171,3 +171,27 @@ html, body, main.page-body {
     font-size: 17px;
     color: #ffffff;
 }
+
+/* END SITH FILES */
+
+/*HERO IMAGES */
+.herp-image-house-of-power {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://swtorista.com/articles/wp-content/uploads/2021/12/sith-pureblood-_0026_Layer-5.jpg')
+}
+
+.herp-image-house-of-power {
+    width: 1200px;
+    margin-left: 125px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border: 2px solid #a32a41;
+}
+
+.hero-text-house-of-power {
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+    padding: 25px 25px 25px 25px;
+}
+
+/* END HERO IMAGES */
