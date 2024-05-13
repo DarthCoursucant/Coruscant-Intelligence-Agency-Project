@@ -49,14 +49,18 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://img.goodfon.com/original/1920x1200/1/76/badfon-zvezdnye-voyny-obi-van-kenobi.jpg')
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen {
+.hero-container-image-eleven {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn12.picryl.com/photo/2016/12/31/star-wars-sturmtruppler-wallpaper-backgrounds-textures-b30d9b-1024.jpg')
+}
+
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen, .hero-container-image-eleven {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }
 
-.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen {
+.hero-container-image-one, .hero-container-image-two, .hero-container-image-three, .hero-container-image-four, .hero-container-image-five, .hero-container-image-six, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen, .hero-container-image-eleven {
     width: 1000px;
     margin-left: 30px;
     border-radius: 20px;
@@ -70,7 +74,7 @@ html, body, main.page-body {
     height: 400px;
 }
 
-.hero-container-image-four, .hero-container-image-five, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen  {
+.hero-container-image-four, .hero-container-image-five, .hero-container-image-seven, .hero-container-image-eight, .hero-container-image-nine, .hero-container-image-teen, .hero-container-image-eleven   {
     height: 450px;
 }
 
