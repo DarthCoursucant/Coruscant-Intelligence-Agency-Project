@@ -172,6 +172,25 @@ html, body, main.page-body {
     color: #ffffff;
 }
 
+.page-title-sith {
+    background-color: #a32a41;
+    width: 850px;
+    border-radius: 20px;
+    margin-left: 300px;
+    text-align: center;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    margin-bottom: 50px;
+}
+
+.page-title-sith h1 {
+    font-size: 50px;
+}
+
+.page-title-sith h2 {
+    font-size: 30px;
+}
+
 /* END SITH FILES */
 
 /*HERO IMAGES */
