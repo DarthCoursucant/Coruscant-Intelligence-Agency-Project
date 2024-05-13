@@ -125,3 +125,14 @@ html, body, main.page-body {
 }
 
 /* END NOTES STYLING */
+
+/* SITH WEAPONS */
+.sith-weapons-intro {
+    background-color: #ffffff;
+    width: 1000px;
+    margin-left: 220px;
+    border-radius: 15px;
+    border: 2px solid #a32a41;
+    text-align: center;
+    font-size: 25px;
+}
