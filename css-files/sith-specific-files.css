@@ -127,7 +127,7 @@ html, body, main.page-body {
 /* END NOTES STYLING */
 
 /* SITH FILES */
-.sith-weapons-intro {
+.sith-weapons-intro, .last-page-content-sith {
     background-color: #ffffff;
     width: 1000px;
     margin-left: 220px;
@@ -137,11 +137,16 @@ html, body, main.page-body {
     font-size: 25px;
 }
 
+.last-page-content-sith {
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+
 .swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container  {
     display: flex;
 }
 
-.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion, .stif-abattar, .yoke-of-seeming, .heart-of-grausy, .meditation-sphere, .muur-talisman, .sith-holocrone-one, .sith-holocrone-two, .sith-holocrones-three, .sith-holocrones-four, .sith-war-beasts-one, .sith-war-beasts-two, .stih-war-beasts-three, .sith-war-beasts-four, .sith-war-beasts-five {
+.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion, .stif-abattar, .yoke-of-seeming, .heart-of-grausy, .meditation-sphere, .muur-talisman, .sith-holocrone-one, .sith-holocrone-two, .sith-holocrones-three, .sith-holocrones-four, .sith-war-beasts-one, .sith-war-beasts-two, .stih-war-beasts-three, .sith-war-beasts-four, .sith-war-beasts-five, .sith-war-beasts-six, .sith-war-beasts-seven {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
