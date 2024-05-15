@@ -107,3 +107,9 @@ html, body {
     margin-left: 30px;
     margin-top: 120px;
   }
+
+  .carousel-slider {
+    height: 50vh;
+    display: grid;
+    place-items: center;
+  }
