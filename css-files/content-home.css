@@ -105,7 +105,11 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://wallpapers-clan.com/wp-content/uploads/2023/10/star-wars-sad-baby-yoda-desktop-wallpaper-preview.jpg')
 }
 
-.hero-image-index-one, .hero-image-index-two {
+.hero-image-index-three {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://upload.wikimedia.org/wikipedia/commons/e/ea/Star_wars._Desfile_en_Santiago_de_Compostela.jpg')
+}
+
+.hero-image-index-one, .hero-image-index-two, .hero-image-index-three {
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
