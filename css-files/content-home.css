@@ -160,6 +160,7 @@ html, body, main.page-body {
     background-color: #a32a41;
     border-radius: 20px;
     border: 2px solid #ffffff;
+    margin-bottom: 50px;
 }
 
 #header-for-the-post-container-index-page h1 {
@@ -172,6 +173,8 @@ html, body, main.page-body {
     background-color: #000000;
     border: 2px solid #ffffff;
     border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
 }
 
 .post-button-index-page a {
@@ -179,4 +182,5 @@ html, body, main.page-body {
     font-size: 30px;
     color: #ffffff;
     padding: 15px 15px 15px 15px;
+    text-align: center;
 }
