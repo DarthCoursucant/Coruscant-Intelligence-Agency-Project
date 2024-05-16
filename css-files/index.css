@@ -13,18 +13,19 @@
     border-radius: 15px;
 }
 
-.slide {
+.slide ,.hero-image-index-one {
     width: 100%;
     max-width: 800px;
     height: 350px;
     position: absolute;
-    transition: transform 0.5s ease;
+    transition: transform 2s ease;
 }
 
 .slide img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    position: absolute;
 }
 
 .btn {
@@ -41,7 +42,7 @@
 }
 
 .btn:active {
-    transform: scale(1.1);
+    transform: scale(8.1);
 }
 
 .btn-prev {
@@ -53,3 +54,4 @@
     top: 45%;
     right: 2%;
 }
+
