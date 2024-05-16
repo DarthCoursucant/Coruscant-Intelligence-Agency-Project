@@ -142,11 +142,11 @@ html, body, main.page-body {
     margin-bottom: 100px;
 }
 
-.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container, .sith-alchemy-container  {
+.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container, .sith-alchemy-container, .sith-incantations-container  {
     display: flex;
 }
 
-.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion, .stif-abattar, .yoke-of-seeming, .heart-of-grausy, .meditation-sphere, .muur-talisman, .sith-holocrone-one, .sith-holocrone-two, .sith-holocrones-three, .sith-holocrones-four, .sith-war-beasts-one, .sith-war-beasts-two, .stih-war-beasts-three, .sith-war-beasts-four, .sith-war-beasts-five, .sith-war-beasts-six, .sith-war-beasts-seven, .sith-alchemy-one, .sith-alchemy-two, .sith-alchemy-three {
+.sith-swords, .sith-war-swords, .sith-lanvarok, .sith-parang, .sith-shikkar, .sith-posion, .stif-abattar, .yoke-of-seeming, .heart-of-grausy, .meditation-sphere, .muur-talisman, .sith-holocrone-one, .sith-holocrone-two, .sith-holocrones-three, .sith-holocrones-four, .sith-war-beasts-one, .sith-war-beasts-two, .stih-war-beasts-three, .sith-war-beasts-four, .sith-war-beasts-five, .sith-war-beasts-six, .sith-war-beasts-seven, .sith-alchemy-one, .sith-alchemy-two, .sith-alchemy-three, .sith-incantations, .sith-incantations-one, .sith-incantations-two {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
