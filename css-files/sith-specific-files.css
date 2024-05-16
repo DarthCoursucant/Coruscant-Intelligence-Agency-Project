@@ -142,7 +142,7 @@ html, body, main.page-body {
     margin-bottom: 100px;
 }
 
-.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container  {
+.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container, .sith-alchemy-container  {
     display: flex;
 }
 
