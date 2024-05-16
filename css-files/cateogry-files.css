@@ -94,10 +94,10 @@ html, body, main.page-body {
     margin-left: -0px;
 }
 
-.building-plans-category, .sith-lords-notes, .war-beasts-option, .army-option, .rim-campaign-from-sith-view, .training-code-sith, .history-of-sith, .combate-lightsaber-armor-sith, .sith-holocrons, .the-prophecy-of-the-sith-ari {
+.building-plans-category, .sith-lords-notes, .war-beasts-option, .army-option, .rim-campaign-from-sith-view, .training-code-sith, .history-of-sith, .combate-lightsaber-armor-sith, .sith-holocrons, .the-prophecy-of-the-sith-ari, .rim-campaign-sith-container {
     margin-left: 40px;
 }
 
-.rim-campaign-from-sith-view, .training-code-sith, .history-of-sith, .combate-lightsaber-armor-sith, .sith-holocrons, .the-prophecy-of-the-sith-ari {
+.rim-campaign-from-sith-view, .training-code-sith, .history-of-sith, .combate-lightsaber-armor-sith, .sith-holocrons, .the-prophecy-of-the-sith-ari, .rim-campaign-sith-container {
     margin-top: 30px;
 }
