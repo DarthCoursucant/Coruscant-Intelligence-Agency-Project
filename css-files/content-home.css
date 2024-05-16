@@ -4,7 +4,7 @@ html, body, main.page-body {
 
 .wrap { flex-wrap: wrap; }
 
-.flex-boxes-home {
+.flex-boxes-home, .rest-of-the-post-index-page {
     display: flex;
 }
 
@@ -153,4 +153,30 @@ html, body, main.page-body {
     color: #ffffff;
     text-align: center;
     padding-left: 30px;
+}
+
+/*POST CONTAINER*/
+.rest-of-the-post-index-page {
+    background-color: #a32a41;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+}
+
+#header-for-the-post-container-index-page h1 {
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.post-button-index-page {
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+}
+
+.post-button-index-page a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+    padding: 15px 15px 15px 15px;
 }
