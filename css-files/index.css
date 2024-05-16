@@ -2,6 +2,7 @@
     height: 50vh;
     display: grid;
     place-items: center;
+    
 }
 
 .slider {
@@ -11,6 +12,7 @@
     position: relative;
     overflow: hidden;
     border-radius: 15px;
+    border: 2px solid #a32a41;
 }
 
 .slide ,.hero-image-index-one, .hero-image-index-two, .hero-image-index-three, .hero-image-index-four, .hero-image-index-five {
