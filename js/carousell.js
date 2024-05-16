@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }, 100);
   
     let currSlide = 0;
-    const transitionDelay = 3000;
+    const transitionDelay = 6000;
     const slideTransitionDuration = 1000;
     let slideInterval;
   
