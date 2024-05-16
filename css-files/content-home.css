@@ -101,6 +101,17 @@ html, body, main.page-body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://live.staticflickr.com/65535/49818284777_bd80680b7d_b.jpg')
 }
 
+.hero-image-index-two {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://wallpapers-clan.com/wp-content/uploads/2023/10/star-wars-sad-baby-yoda-desktop-wallpaper-preview.jpg')
+}
+
+.hero-image-index-one, .hero-image-index-two {
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .hero-text-index-one {
     color: #ffffff;
 }
