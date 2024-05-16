@@ -142,7 +142,7 @@ html, body, main.page-body {
     margin-bottom: 100px;
 }
 
-.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container, .sith-alchemy-container, .sith-incantations-container, .sith-code-container, .sith-prophecy-of-the-sith-ari  {
+.swith-weapoons-container, .sith-amulets-container, .sith-holocrons-container, .sith-war-beasts-container, .sith-alchemy-container, .sith-incantations-container, .sith-code-container, .sith-prophecy-of-the-sith-ari, .sith-rim-campaign-container  {
     display: flex;
 }
 
