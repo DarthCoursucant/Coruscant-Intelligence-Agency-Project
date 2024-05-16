@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
   // Get the close button
   /*var closeButton = document.querySelector('.close-btn');*/
   
-  // When the user clicks on (x), close the pop-up
   /*closeButton.addEventListener('click', function() {
       document.getElementById('popup-ad-sith-files').style.display = 'none';
   });*/
