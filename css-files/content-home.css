@@ -184,3 +184,16 @@ html, body, main.page-body {
     padding: 15px 15px 15px 15px;
     text-align: center;
 }
+
+#post-six {
+    margin-left: 110px;
+}
+
+#post-five {
+    margin-left: 40px;
+}
+
+#post-seven {
+    margin-left: 300px;
+    margin-bottom: 40px;
+}
