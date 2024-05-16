@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', function () {
   // selects all class of 'slides' and 'slider'
   const slides = document.querySelectorAll('.slide');
   const slideContainer = document.querySelector('.slider');
-  const heroimageindexone = document.querySelector('.slider');
   
     slides.forEach((slide, index) => {
       slide.style.transition = 'none';
