@@ -282,3 +282,20 @@ html, body, main.page-body {
     text-decoration: none;
     color: #ffffff;
 }
+
+/*END OF RIM CAMPAIGN*/
+
+/*POSTS RIM CAPAIGN*/
+.sith-rim-capaign-day-one-three-three {
+    background-color: #a32a41;
+    border-radius: 20px;
+    width: 1200px;
+    margin-left: 100px;
+}
+
+#header-of-rin {
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+}
