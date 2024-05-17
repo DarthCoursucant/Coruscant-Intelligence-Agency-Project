@@ -247,3 +247,21 @@ html, body, main.page-body {
     width: 400px;
     height: 300px;
 }
+
+.rim-capaing-text-box {
+    background-color: #a32a41;
+    width: 400px;
+    height: 300px;
+}
+
+#text-rim-campaign h1 {
+    font-size: 35px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#text-rim-campaign h2 {
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+}
