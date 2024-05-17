@@ -288,14 +288,25 @@ html, body, main.page-body {
 /*POSTS RIM CAPAIGN*/
 .sith-rim-capaign-day-one-three-three {
     background-color: #a32a41;
+    border: 2px solid #ffffff;
     border-radius: 20px;
     width: 1200px;
     margin-left: 100px;
+    margin-bottom: 100px;
 }
 
 #header-of-rin {
     font-size: 40px;
     text-align: center;
     color: #ffffff;
-    padding-top: 10px;
+    padding-top: 20px;
+}
+
+#rest-of-the-text-rim {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
 }
