@@ -7,9 +7,11 @@ html, body, main.page-body {
 }
 
 .login-container {
-    background-color: Red;
+    background-color: #a32a41;
     width: 600px;
-    margin-left: 500px;
+    margin-left: 450px;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
   }
 
 .login-form {
@@ -30,3 +32,13 @@ label {
 label::after {
     content: ":";
   }
+
+/*Input Area Code*/
+input,textarea {
+    font: 1em sans-serif;
+    width: 350px;
+    box-sizing: border-box;
+    border: 2px solid #417D6C;
+    outline: none;
+    background-color: #ffffff;
+ }
