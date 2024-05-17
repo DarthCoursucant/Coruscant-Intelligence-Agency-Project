@@ -239,4 +239,11 @@ html, body, main.page-body {
     display: flex;
 }
 
-.sith-rim-campaign
+.sith-rim-campaign {
+    display: flex;
+}
+
+#rim-capaing-photo img {
+    width: 400px;
+    height: 300px;
+}
