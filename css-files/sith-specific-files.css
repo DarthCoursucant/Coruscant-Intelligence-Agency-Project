@@ -331,3 +331,26 @@ html, body, main.page-body {
 .the-power-of-sith-container {
     display: flex;
 }
+
+.the-power-of-sith-info {
+    background-color: #a32a41;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    width: 1150px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+#power-of-sith-text {
+    text-align: center;
+    color: #ffffff;
+}
+
+#power-of-sith-text h1 {
+    font-size: 40px;
+}
+
+#power-of-sith-text p {
+    font-size: 25px;
+}
