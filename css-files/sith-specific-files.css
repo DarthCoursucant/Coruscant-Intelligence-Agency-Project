@@ -328,7 +328,7 @@ html, body, main.page-body {
 /* END OF POSTS RIM CAPAIGN*/
 
 /*THE POWER OF SITH*/
-.the-power-of-sith-container {
+.the-power-of-sith-container, .the-mistakes-of-russan-container {
     display: flex;
 }
 
