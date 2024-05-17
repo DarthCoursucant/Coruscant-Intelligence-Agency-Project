@@ -5,3 +5,9 @@ html, body, main.page-body {
 #logo-header {
     margin-left: 500px;
 }
+
+.login-container {
+    background-color: Red;
+    width: 600px;
+    margin-left: 500px;
+  }
