@@ -239,7 +239,7 @@ html, body, main.page-body {
     display: flex;
 }
 
-.sith-rim-campaign, .sith-rim-capaign-one {
+.sith-rim-campaign, .sith-rim-capaign-one, .sith-rim-campaign-two {
     display: flex;
     border: 2px solid #ffffff;
     width: 600px;
@@ -283,8 +283,12 @@ html, body, main.page-body {
     color: #ffffff;
 }
 
-.sith-rim-capaign-one, .sith-rim-campaign {
+.sith-rim-capaign-one, .sith-rim-campaign, .sith-rim-campaign-two, .sith-rim-campaign-two {
     margin-left: 60px;
+}
+
+.sith-rim-campaign-two {
+    margin-top: 30px;
 }
 
 /*END OF RIM CAMPAIGN*/
