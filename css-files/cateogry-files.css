@@ -118,11 +118,11 @@ html, body, main.page-body {
     display: flex;
 }
 
-.the-living-force-and-the-dark-side, .hisotry-of-dathomir, .history-of-the-nightsisters {
+.the-living-force-and-the-dark-side, .hisotry-of-dathomir, .history-of-the-nightsisters, .the-fanged-god {
     margin-left: 30px;
 }
 
-.the-winged-goddes {
+.the-winged-goddes, .the-fanged-god {
     margin-top: 30px;
 }
 
