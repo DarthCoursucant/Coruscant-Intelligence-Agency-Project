@@ -104,3 +104,16 @@ html, body, main.page-body {
 .sith-lightsaber-combat, .sith-using-the-saberstaff, .sith-armor, .sith-dark-side-combat {
     margin-bottom: 100px;
 }
+
+/*END OF SITH FILES*/
+
+/*Organization Files */
+.orgnaization-files-category {
+    display: flex;
+}
+
+
+/*The night sisters*/
+.night-sisters-files-category {
+    display: flex;
+}
