@@ -196,6 +196,10 @@ html, body, main.page-body {
     font-size: 30px;
 }
 
+.page-title-sith p {
+    font-size: 20px;
+}
+
 .sith-code-one-container {
     background-color: #a32a41;
     border-radius: 20px;
