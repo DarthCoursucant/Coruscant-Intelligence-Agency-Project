@@ -5,5 +5,25 @@
 .about-container-one {
     background-color: #417D6C;
     width: 1200px;
-    margin-left: 100px;
+    margin-left: 120px;
+    border-radius: 20px;
+}
+
+.about-container-one {
+    margin-top: 50px;
+}
+
+#text-container-about {
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+
+#header-text-about h1 {
+    color: #a32a41;
+    font-size: 40px;
+}
+
+#paragraph-text-about p {
+    color: #ffffff;
+    font-size: 25px;
 }
