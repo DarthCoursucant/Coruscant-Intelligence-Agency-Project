@@ -2,14 +2,21 @@
     display: flex;
 }
 
-.about-container-one {
-    background-color: #417D6C;
+.about-container-one, .motivation-container {
     width: 1200px;
     margin-left: 120px;
     border-radius: 20px;
 }
 
 .about-container-one {
+    background-color: #417D6C;
+}
+
+.motivation-container {
+    background-color: #528DB1;
+}
+
+.about-container-one, .motivation-container {
     margin-top: 50px;
 }
 
