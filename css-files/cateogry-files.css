@@ -135,3 +135,6 @@ html, body, main.page-body {
 }
 
 /*JEDI FILES*/
+.jedi-files-category {
+    display: flex;
+}
