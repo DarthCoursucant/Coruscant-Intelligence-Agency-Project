@@ -389,11 +389,11 @@ html, body, main.page-body {
 
 /*JEDI FILES*/
 
-.the-jedi-code-container, .the-history-of-the-jedi-container, .the-history-of-the-jedi-container, .strcutre-of-the-jedi-order-container, .joining-a-clan-container, .atire-and-compartments-container {
+.the-jedi-code-container, .the-history-of-the-jedi-container, .the-history-of-the-jedi-container, .strcutre-of-the-jedi-order-container, .joining-a-clan-container, .atire-and-compartments-container, .three-pillars-of-the-jedi-container, .the-first-pillar-container {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-one, .strcutre-of-the-jedi-order-two, .strcutre-of-the-jedi-order-three, .joing-a-clan-order-one, .joining-a-clan-two, .joining-a-clan-three, .joining-a-clan-four, .joining-a-clan-five, .atire-and-compartmentsr-one, .artire-and-compartmensts-two, .atrie-and-compartments-three {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-one, .strcutre-of-the-jedi-order-two, .strcutre-of-the-jedi-order-three, .joing-a-clan-order-one, .joining-a-clan-two, .joining-a-clan-three, .joining-a-clan-four, .joining-a-clan-five, .atire-and-compartmentsr-one, .artire-and-compartmensts-two, .atrie-and-compartments-three, .three-pillars-of-the-jedi-one, .the-first-pillar-one {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
