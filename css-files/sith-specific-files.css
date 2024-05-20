@@ -389,11 +389,11 @@ html, body, main.page-body {
 
 /*JEDI FILES*/
 
-.the-jedi-code-container, .the-history-of-the-jedi-container {
+.the-jedi-code-container, .the-history-of-the-jedi-container, .the-history-of-the-jedi-container {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
