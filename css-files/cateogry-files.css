@@ -138,3 +138,11 @@ html, body, main.page-body {
 .jedi-files-category {
     display: flex;
 }
+
+.jedi-code-option {
+    margin-left: 40px;
+}
+
+.jedi-code-option {
+    margin-top: 30px;
+}
