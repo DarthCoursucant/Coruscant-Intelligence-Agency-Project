@@ -386,3 +386,15 @@ html, body, main.page-body {
 .note-container {
     margin-bottom: 150px;
 }
+
+/*JEDI FILES*/
+
+.the-jedi-code-container {
+    display: flex;
+}
+
+.jedi-code-one, .jedi-code-two {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 250px;
+}
