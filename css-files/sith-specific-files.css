@@ -393,12 +393,12 @@ html, body, main.page-body {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
 }
 
-.jedi-code-four {
+.jedi-code-four, .history-of-the-jedi-three {
     margin-bottom: 100px;
 }
