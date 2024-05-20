@@ -393,7 +393,7 @@ html, body, main.page-body {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
