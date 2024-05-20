@@ -393,7 +393,7 @@ html, body, main.page-body {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-one, .strcutre-of-the-jedi-order-two {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
