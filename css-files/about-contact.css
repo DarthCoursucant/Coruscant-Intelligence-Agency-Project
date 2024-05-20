@@ -2,7 +2,7 @@
     display: flex;
 }
 
-.about-container-one, .motivation-container, .work-for-us-container {
+.about-container-one, .motivation-container, .work-for-us-container, .history-container {
     width: 1200px;
     margin-left: 120px;
     border-radius: 20px;
@@ -13,12 +13,16 @@
     background-color: #417D6C;
 }
 
-.motivation-container {
+.motivation-container, .history-container {
     background-color: #528DB1;
 }
 
-.about-container-one, .motivation-container, .work-for-us-container {
+.about-container-one, .motivation-container, .work-for-us-container, .history-container {
     margin-top: 50px;
+}
+
+.history-container {
+    margin-bottom: 100px;
 }
 
 #text-container-about {
