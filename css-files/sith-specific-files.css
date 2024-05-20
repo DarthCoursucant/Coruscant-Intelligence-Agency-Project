@@ -389,11 +389,11 @@ html, body, main.page-body {
 
 /*JEDI FILES*/
 
-.the-jedi-code-container, .the-history-of-the-jedi-container, .the-history-of-the-jedi-container, .strcutre-of-the-jedi-order-container {
+.the-jedi-code-container, .the-history-of-the-jedi-container, .the-history-of-the-jedi-container, .strcutre-of-the-jedi-order-container, .joining-a-clan-container {
     display: flex;
 }
 
-.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-one, .strcutre-of-the-jedi-order-two, .strcutre-of-the-jedi-order-three {
+.jedi-code-one, .jedi-code-two, .jedi-code-three, .jedi-code-four, .history-of-the-jedi-one, .history-of-the-jedi-two, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-one, .strcutre-of-the-jedi-order-two, .strcutre-of-the-jedi-order-three, .joing-a-clan-order-one, .joining-a-clan-two {
     display: flex;
     margin-top: 30px;
     margin-left: 250px;
