@@ -2,14 +2,14 @@
     display: flex;
 }
 
-.about-container-one, .motivation-container {
+.about-container-one, .motivation-container, .work-for-us-container {
     width: 1200px;
     margin-left: 120px;
     border-radius: 20px;
     border: 2px solid #a32a41;
 }
 
-.about-container-one {
+.about-container-one, .work-for-us-container {
     background-color: #417D6C;
 }
 
@@ -17,7 +17,7 @@
     background-color: #528DB1;
 }
 
-.about-container-one, .motivation-container {
+.about-container-one, .motivation-container, .work-for-us-container {
     margin-top: 50px;
 }
 
