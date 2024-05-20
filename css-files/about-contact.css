@@ -46,3 +46,48 @@
 /* END ABOUT PAGE */
 
 /*CONTACT PAGE*/
+
+.contact-us-container {
+    display: flex;
+}
+
+.contact-container-one {
+    background-color: #528DB1;
+    width: 1200px;
+    margin-left: 120px;
+    border-radius: 20px;
+    border: 2px solid #a32a41;
+}
+
+#text-container-contact {
+    text-align: center;
+    color: #ffffff;
+}
+
+#header-contact h1 {
+    font-size: 40px;
+}
+
+#paragraph-contact p {
+    font-size: 25px;
+}
+
+.contact-container-short, .contact-container-short-two {
+    width: 600px;
+    border-radius: 20px;
+}
+
+.contact-container-short {
+    background-color: #417D6C;
+    border: 2px solid #a32a41;
+}
+
+.contact-container-short-two {
+    background-color: #a32a41;
+    border: 2px solid #ffffff;
+}
+
+.contact-container-short, .contact-container-short-two {
+    margin-top: 30px;
+    margin-left: 80px;
+}
