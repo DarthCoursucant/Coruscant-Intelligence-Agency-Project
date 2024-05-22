@@ -402,3 +402,14 @@ html, body, main.page-body {
 .jedi-code-four, .history-of-the-jedi-three, .strcutre-of-the-jedi-order-three, .joining-a-clan-five, .atrie-and-compartments-three, .the-first-pillar-three {
     margin-bottom: 100px;
 }
+
+/*PLABNET FILES*/
+.the-galaxy-stars-planet-container {
+    display: flex;
+}
+
+.the-galaxy-stars-planet-one {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 250px;
+}
