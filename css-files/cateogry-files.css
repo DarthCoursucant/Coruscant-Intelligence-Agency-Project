@@ -151,3 +151,7 @@ html, body, main.page-body {
 .planet-files-category {
     display: flex;
 }
+
+.galaxy-stars-planets-option {
+    margin-left: 40px;
+}
